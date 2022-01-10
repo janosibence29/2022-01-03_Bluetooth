@@ -63,3 +63,7 @@ span {
   font-style: bold;
   font-style: monospace;
 }
+
+html {
+  background-image: url(hatter.jpg);
+}
